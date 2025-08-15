@@ -43,4 +43,4 @@ The goal is to identify which campaigns perform best, what drives customer purch
 
 ---
 
-📌 *Developed by [Your Name]*
+📌 *Developed by Navya Silla
