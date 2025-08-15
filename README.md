@@ -15,21 +15,21 @@ The goal is to identify which campaigns perform best, what drives customer purch
 - Wine category dominates total sales (0.68M)
 - Store platform leads purchases (13K)
 
-![Campaign Performance](images/campaign_performance.png)
+![Campaign Performance](Images/Campaign_Performance.png)
 
 ### 2️⃣ Buyer Composition
 - Most customers are **Graduates**
 - Average customer income: **$52.25K**
 - Older customers buy more wine; younger customers buy more meat
 
-![Buyer Composition](images/buyer_composition.png)
+![Buyer Composition](Images/Buyer_Composition.png)
 
 ### 3️⃣ Purchase Drivers
 - Low income (< $44,051) increases likelihood of accepting Campaign6
 - Higher income (> $67,381) increases total sales
 - Households without kids spend more overall
 
-![Purchase Drivers](images/purchase_drivers.png)
+![Purchase Drivers](Images/Purchase_Drivers.png)
 
 ## 💡 Key Insights
 - **Wine sales** are the top revenue contributor
